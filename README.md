@@ -18,6 +18,6 @@ steps to reproduce:
 # in the chrome tab, go to 'https://jhollingworth.github.io/bootstrap-wysihtml5/
 # here it does not find the inner iframe 
 
-# in the chrome tab, go to 'http://localhost:5173
+# in the chrome tab, go to 'https://localhost:5173
 # here it does find the inner iframe
 ```
