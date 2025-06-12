@@ -1,5 +1,5 @@
 export default defineContentScript({
-  matches: ['https://*/*'],
+  matches: ['<all_urls>'],
   allFrames: true,
   main() {
     console.log('Hello content.');

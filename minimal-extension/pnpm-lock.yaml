@@ -12,7 +12,7 @@ importers:
         specifier: ^5.8.3
         version: 5.8.3
       wxt:
-        specifier: ^0.20.6
+        specifier: 0.20.7
         version: 0.20.7(@types/node@24.0.1)(jiti@2.4.2)(rollup@4.43.0)
 
 packages:
