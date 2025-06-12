@@ -6,11 +6,13 @@ steps to reproduce:
 
 ```
 # cd to minimal-html in 2 different terminals
+# run 'pnpm i'
 # in one, run `npx vite serve outer --port 5173`
 # in the other, run `npx vite serve inner --port 5174`
 
 
 # in another terminal, cd into minimal-extension
+# run 'pnpm i'
 # run `npm run dev`
 
 # in the chrome tab, go to 'https://jhollingworth.github.io/bootstrap-wysihtml5/
